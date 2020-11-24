@@ -28,7 +28,7 @@ por gentileza entrar em contato com o desenvolvedor.
 ## Links
 
 
-  - Em caso de bugs, erros, dúvidas, entre outros motivos que tenha a necessidade
+  - Em caso de bugs, erros, dúvidas, entre outros motivos que tenha a
      necessidade de contato, por gentileza: https://www.linkedin.com/in/cesar-favero/
 
 
