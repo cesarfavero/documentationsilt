@@ -35,6 +35,7 @@ por gentileza entrar em contato com o desenvolvedor.
 ## Licença
 
 Para uso exclusivo em Luft Solutions
+
 Não faça alterações sem permissões no projeto.
 
 Sem fins lucrativos.
