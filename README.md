@@ -1,4 +1,4 @@
-![Cesar Favero](https://media-exp1.licdn.com/dms/image/C4E03AQHVMRlYtc-m7w/profile-displayphoto-shrink_400_400/0/1602698867677?e=1619049600&v=beta&t=ULfKY1hzYuAzpQKR98FxCJvu15kuuygva24NZYnfoNg)
+![Cesar Favero](https://media-exp1.licdn.com/dms/image/C4E03AQHVMRlYtc-m7w/profile-displayphoto-shrink_800_800/0/1602698867677?e=1619049600&v=beta&t=nE5UN_a4mMRAuyxfERVeuxDVKhu1ywvALSMkjnJRCIw)
 
 # Desktop Application
 > Entenda o Software
