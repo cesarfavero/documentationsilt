@@ -1,4 +1,4 @@
-![Cesar Favero](https://i.ibb.co/1MTdphC/Ndx4-F9-FNW7r-X.jpg)
+![Cesar Favero](https://i.ibb.co/pQFwV77/agr-vai.jpg)
 
 # Desktop Application
 > Entenda o Software
